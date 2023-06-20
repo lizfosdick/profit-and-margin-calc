@@ -1,14 +1,5 @@
 //This is a little JS program I wrote for myself to calculate profit and margins on different platforms for my side hustle.
 
-// 0.27	Listing fee
-// 6.50%	Transaction fee
-// 3%-4%	Payment processing
-// 0.25	Payment processing
-// Small plastic mailers	0.07
-// Large plastic mailers	0.18
-// Catalogue envelopes	0.3
-// Oversized letter mail in Canada: $1.94, $3.19, $4.44, $5.09, $5.47
-
 let shippingSupplyCost;
 let shippingRevenue;
 const productCost = 1.01;
